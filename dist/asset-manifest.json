@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/css/devdemo.css",
+    "main.js": "/js/devdemo.js",
+    "index.html": "/index.html",
+    "devdemo.css.map": "/css/devdemo.css.map",
+    "devdemo.js.map": "/js/devdemo.js.map"
+  },
+  "entrypoints": [
+    "css/devdemo.css",
+    "js/devdemo.js"
+  ]
+}
